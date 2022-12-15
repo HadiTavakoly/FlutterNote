@@ -7,8 +7,7 @@
 #### 🌐 Multilanguage
 >+ #####  English
 >+ #####  Persian
-&nbsp;
-&nbsp;
+
 <p align="center">
   <img alt="Light" src="https://user-images.githubusercontent.com/90050699/207808310-15bc7db8-ea50-41bc-8f42-0add38efb17d.jpg" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -21,11 +20,10 @@
 > ##### And
 >- ##### [shared preferences](https://pub.dev/packages/shared_preferences)
 
-
->#### 🔍 Search in notes
+&nbsp;&nbsp;
+#### 🔍 Search in notes
 >- ##### Search the titles and descriptions of the notes at the same time
-&nbsp;
-&nbsp;
+
 <p align="center">
   <img alt="Light" src="https://user-images.githubusercontent.com/90050699/207805216-94e6fdbe-5099-4cc0-9647-29554f7f17eb.jpg"" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -37,8 +35,6 @@
 > ##### OR
 >- ##### GridView
 
-&nbsp;
-&nbsp;
 <p align="center">
   <img alt="Light" src="https://user-images.githubusercontent.com/90050699/207809618-55f9f334-d9ce-4a0a-9d13-02008a743bc2.jpg" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
