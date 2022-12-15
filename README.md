@@ -32,7 +32,6 @@
   <img alt="Dark" src="https://user-images.githubusercontent.com/90050699/207806445-615d618f-7daf-4b62-ad03-28a6cd101c27.jpg" width="45%">
 </p>
 
-
 #### 📱 Change the appearance of the app 
 >- ##### ListView
 > ##### OR
@@ -62,7 +61,3 @@ flutter_staggered_grid_view: ^0.6.2
 ```
 shared_preferences: ^2.0.15
 ```
-
-&nbsp;
-&nbsp;
-
